@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="plot.png" width="350" title="hover text">
-  <img src="plot.png" width="350" alt="accessibility text">
 </p>
 
 •	Los valores pequeños de sita producen valores de disparos altos en la respuesta transitoria, analogamente sucede con valores grandes.
